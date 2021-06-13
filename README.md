@@ -1,0 +1,2 @@
+# Playstation-Discord-RPC
+ 
