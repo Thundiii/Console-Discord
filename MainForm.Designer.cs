@@ -33,6 +33,7 @@ namespace PlayStationDiscord
             this.playstationSwitch = new System.Windows.Forms.ComboBox();
             this.tb_State = new System.Windows.Forms.TextBox();
             this.updateButton = new System.Windows.Forms.Button();
+            this.tbIconID = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // tb_Details
@@ -47,7 +48,6 @@ namespace PlayStationDiscord
             // 
             this.playstationSwitch.FormattingEnabled = true;
             this.playstationSwitch.Items.AddRange(new object[] {
-            "PlayStation 1",
             "PlayStation 2",
             "Wii"});
             this.playstationSwitch.Location = new System.Drawing.Point(59, 42);
@@ -67,7 +67,7 @@ namespace PlayStationDiscord
             // 
             // updateButton
             // 
-            this.updateButton.Location = new System.Drawing.Point(114, 116);
+            this.updateButton.Location = new System.Drawing.Point(114, 128);
             this.updateButton.Name = "updateButton";
             this.updateButton.Size = new System.Drawing.Size(75, 23);
             this.updateButton.TabIndex = 7;
@@ -75,17 +75,26 @@ namespace PlayStationDiscord
             this.updateButton.UseVisualStyleBackColor = true;
             this.updateButton.Click += new System.EventHandler(this.updateButton_Click);
             // 
+            // tbIconID
+            // 
+            this.tbIconID.Location = new System.Drawing.Point(59, 100);
+            this.tbIconID.Name = "tbIconID";
+            this.tbIconID.PlaceholderText = "Icon ID";
+            this.tbIconID.Size = new System.Drawing.Size(91, 23);
+            this.tbIconID.TabIndex = 8;
+            // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(312, 151);
+            this.ClientSize = new System.Drawing.Size(312, 163);
+            this.Controls.Add(this.tbIconID);
             this.Controls.Add(this.updateButton);
             this.Controls.Add(this.tb_State);
             this.Controls.Add(this.playstationSwitch);
             this.Controls.Add(this.tb_Details);
             this.Name = "MainForm";
-            this.Text = "PlayStation for Discord";
+            this.Text = "Console Discord";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -97,6 +106,7 @@ namespace PlayStationDiscord
         private System.Windows.Forms.ComboBox playstationSwitch;
         private System.Windows.Forms.TextBox tb_State;
         private System.Windows.Forms.Button updateButton;
+        private System.Windows.Forms.TextBox tbIconID;
     }
 }
 

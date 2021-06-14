@@ -13,16 +13,13 @@ using DiscordRPC.Logging;
 
 namespace PlayStationDiscord
 {
-    public partial class MainForm : Form
+    public partial class MainForm : Form 
     {
         public enum Console
         {
             ConsoleDiscord,
-            Ps1,
             Ps2,
-            Wii,
-            Switch
-
+            Wii
         }
 
         public static String idleKey = "853801529739575297";
@@ -76,8 +73,8 @@ namespace PlayStationDiscord
                 Timestamps = Timestamps.Now,
                 Assets = new Assets()
                 {
-                    LargeImageKey = "crash2_logo",
-                    //LargeImageText = playStationVersion
+                    LargeImageKey = tbIconID.Text,
+                    LargeImageText = getConsole()
                 }
 
             }); 
