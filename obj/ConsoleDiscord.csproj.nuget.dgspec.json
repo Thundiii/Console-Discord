@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Git\\Visual Studio 2019\\ConsoleDiscord\\PlayStationDiscord.csproj": {}
+    "C:\\Git\\Visual Studio 2019\\ConsoleDiscord\\ConsoleDiscord.csproj": {}
   },
   "projects": {
-    "C:\\Git\\Visual Studio 2019\\ConsoleDiscord\\PlayStationDiscord.csproj": {
+    "C:\\Git\\Visual Studio 2019\\ConsoleDiscord\\ConsoleDiscord.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\Visual Studio 2019\\ConsoleDiscord\\PlayStationDiscord.csproj",
+        "projectUniqueName": "C:\\Git\\Visual Studio 2019\\ConsoleDiscord\\ConsoleDiscord.csproj",
         "projectName": "ConsoleDiscord",
-        "projectPath": "C:\\Git\\Visual Studio 2019\\ConsoleDiscord\\PlayStationDiscord.csproj",
+        "projectPath": "C:\\Git\\Visual Studio 2019\\ConsoleDiscord\\ConsoleDiscord.csproj",
         "packagesPath": "C:\\Users\\Silas\\.nuget\\packages\\",
         "outputPath": "C:\\Git\\Visual Studio 2019\\ConsoleDiscord\\obj\\",
         "projectStyle": "PackageReference",

@@ -301,11 +301,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Git\\Visual Studio 2019\\Playstation-Discord-RPC\\PlayStationDiscord.csproj",
-      "projectName": "PlayStationDiscord",
-      "projectPath": "C:\\Git\\Visual Studio 2019\\Playstation-Discord-RPC\\PlayStationDiscord.csproj",
+      "projectUniqueName": "C:\\Git\\Visual Studio 2019\\ConsoleDiscord\\ConsoleDiscord.csproj",
+      "projectName": "ConsoleDiscord",
+      "projectPath": "C:\\Git\\Visual Studio 2019\\ConsoleDiscord\\ConsoleDiscord.csproj",
       "packagesPath": "C:\\Users\\Silas\\.nuget\\packages\\",
-      "outputPath": "C:\\Git\\Visual Studio 2019\\Playstation-Discord-RPC\\obj\\",
+      "outputPath": "C:\\Git\\Visual Studio 2019\\ConsoleDiscord\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Silas\\AppData\\Roaming\\NuGet\\NuGet.Config",

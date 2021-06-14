@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31321.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayStationDiscord", "PlayStationDiscord.csproj", "{5EDC5F59-FD8B-4F2D-A2F2-A64CD092ECEE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleDiscord", "ConsoleDiscord.csproj", "{5EDC5F59-FD8B-4F2D-A2F2-A64CD092ECEE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

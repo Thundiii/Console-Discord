@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FbVC4hzTNWfUgYaY+cj5NZ4Bj8Xk0dsLs/VJuZbZk94VrrhQI+CVVfm+xt/SbDZgoPJQFefu6eAcnIoheEIROw==",
+  "dgSpecHash": "Sy9NuK2w3b8aOOuVZnDvh7aGqrXwKB9CFUw5FHtVP+2wpoJve/rknWpD6ued3l6WNdXSRUUsWShKwN56Su//Qw==",
   "success": true,
-  "projectFilePath": "C:\\Git\\Visual Studio 2019\\Playstation-Discord-RPC\\PlayStationDiscord.csproj",
+  "projectFilePath": "C:\\Git\\Visual Studio 2019\\ConsoleDiscord\\ConsoleDiscord.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Silas\\.nuget\\packages\\discordrichpresence\\1.0.175\\discordrichpresence.1.0.175.nupkg.sha512",
     "C:\\Users\\Silas\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
